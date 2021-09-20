@@ -8,5 +8,5 @@ class Contoh1 extends CI_Controller
  Saya tinggal didaerah Sanggau perbatasan
  olah raga yang saya sukai adalah olahraga
  lari(lari dari kenyataan)";
-    }
+ }
 }
