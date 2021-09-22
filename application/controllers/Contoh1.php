@@ -7,6 +7,6 @@ class Contoh1 extends CI_Controller
  echo"Nama saya Chelsea Nillesia
  Saya tinggal didaerah Sanggau perbatasan
  olah raga yang saya sukai adalah olahraga
- lari(lari dari kenyataan)";
+ lari(lari dari kenyataan )";
  }
 }
